@@ -1,0 +1,4 @@
+Libraries have been using :
+1. tensorflow 2.xx
+2. pillow
+3. matplotlib
