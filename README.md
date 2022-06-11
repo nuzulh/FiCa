@@ -12,6 +12,10 @@ FiCa is an mobile application that applies AI (Artificial Intelligence) technolo
 ![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/news.jpeg)
 ![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/account.jpeg)
 
+|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/login.png align="center" height="400" width="200" ></a> |<img src=MOBILE%20DEVELOPMENT/documentation%20assets/register.png  align="center" height="400" width="200" ></a>|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/predict.jpeg  align="center" height="400" width="200" ></a>|
+|:-----------:|:--------:|:--------:|
+| Login | Register | Prediction |
+
 ## Team Member
 |                Nama                  |  Bangkit-ID   |       Path       |
 |:------------------------------------:|:-------------:|:----------------:|
