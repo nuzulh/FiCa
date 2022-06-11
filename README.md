@@ -1,7 +1,7 @@
 # FiCa
 > Fish Classifier
 
-|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/logo.png align="center" height="100" width="100" ></a>|
+<img src=MOBILE%20DEVELOPMENT/documentation%20assets/logo.png align="center" height="120" width="150" ></a>
 
 FiCa is an mobile application that applies AI (Artificial Intelligence) technology to detect types of Koi fish based on images. FiCa will provide information in the form of names, descriptions and market prices based on the types of Koi fish detected, as well as other information such as news and how the ornamental fish cultivation process is to be bred.
 
