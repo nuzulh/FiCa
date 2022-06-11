@@ -5,6 +5,13 @@
 
 FiCa is an mobile application that applies AI (Artificial Intelligence) technology to detect types of Koi fish based on images. FiCa will provide information in the form of names, descriptions and market prices based on the types of Koi fish detected, as well as other information such as news and how the ornamental fish cultivation process is to be bred.
 
+## App Overview
+![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/login.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/register.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/predict.jpeg)
+![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/news.jpeg)
+![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/account.jpeg)
+
 ## Team Member
 |                Nama                  |  Bangkit-ID   |       Path       |
 |:------------------------------------:|:-------------:|:----------------:|
