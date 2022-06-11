@@ -6,15 +6,13 @@
 FiCa is an mobile application that applies AI (Artificial Intelligence) technology to detect types of Koi fish based on images. FiCa will provide information in the form of names, descriptions and market prices based on the types of Koi fish detected, as well as other information such as news and how the ornamental fish cultivation process is to be bred.
 
 ## App Overview
-![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/login.png)
-![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/register.png)
-![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/predict.jpeg)
-![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/news.jpeg)
-![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/account.jpeg)
-
-|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/login.png align="center" height="400" width="220" ></a> |<img src=MOBILE%20DEVELOPMENT/documentation%20assets/register.png  align="center" height="400" width="220" ></a>|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/predict.jpeg  align="center" height="400" width="200" ></a>|
+|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/login.png align="center" height="400" width="230" ></a> |<img src=MOBILE%20DEVELOPMENT/documentation%20assets/register.png  align="center" height="400" width="230" ></a>|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/predict.jpeg  align="center" height="400" width="200" ></a>|
 |:-----------:|:--------:|:--------:|
 | Login | Register | Prediction |
+
+|<img src=MOBILE%20DEVELOPMENT/documentation%20assets/news.jpeg align="center" height="400" width="200" ></a> |<img src=MOBILE%20DEVELOPMENT/documentation%20assets/account.jpeg  align="center" height="400" width="200" ></a>|
+|:-----------:|:--------:|
+| News | Account |
 
 ## Team Member
 |                Nama                  |  Bangkit-ID   |       Path       |
