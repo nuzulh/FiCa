@@ -1,7 +1,7 @@
 # FiCa
 > Fish Classifier
 
-![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/logo.png)
+![alt text](https://raw.githubusercontent.com/nuzulh/FiCa/master/MOBILE%20DEVELOPMENT/documentation%20assets/logo.png)
 
 Fish is an important commodity in Indonesia. According to Badan Karantina Ikan, Pengendalian Mutu, dan
 Keamanan Hasil Perikanan Indonesia in 2015 had a total of 440 endemic freshwater fish species and 140
