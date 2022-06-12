@@ -1,52 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.ajeng.storyapp">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.bangkit.fica" >
 
+    <uses-permission android:name="android.permission.CAMERA"/>
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
 
     <uses-feature android:name="android.hardware.camera" />
 
-    <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission
-        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-        android:maxSdkVersion="18" />
-
-    <queries>
-        <intent>
-            <action android:name="android.intent.action.VIEW" />
-
-            <category android:name="android.intent.category.BROWSABLE" />
-
-            <data android:scheme="https" />
-        </intent>
-    </queries>
-
     <application
+        android:name="com.bangkit.fica.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.StoryApp">
+        android:theme="@style/Theme.FiCa"
+        android:usesCleartextTraffic="true"
+        tools:ignore="UnusedAttribute" >
         <activity
-            android:name="id.ajeng.storyapp.ui.CameraActivity"
-            android:exported="false" />
-        <activity
-            android:name="id.ajeng.storyapp.ui.AddStoryActivity"
-            android:exported="false" />
-        <activity
-            android:name="id.ajeng.storyapp.ui.StoryDetailActivity"
-            android:exported="false" />
-        <activity
-            android:name="id.ajeng.storyapp.ui.RegisterActivity"
-            android:exported="false" />
-        <activity
-            android:name="id.ajeng.storyapp.ui.LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name="id.ajeng.storyapp.ui.SplashScreenActivity"
-            android:exported="true">
+            android:name="com.bangkit.fica.presentation.splash.SplashActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -54,18 +32,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="id.ajeng.storyapp.ui.MainActivity"
+            android:name="com.bangkit.fica.presentation.home.MainActivity"
             android:exported="false" />
-
-        <provider
-            android:name="androidx.core.content.FileProvider"
-            android:authorities="id.ajeng.storyapp"
-            android:exported="false"
-            android:grantUriPermissions="true">
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/file_paths" />
-        </provider>
+        <activity
+            android:name="com.bangkit.fica.presentation.authentification.register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.bangkit.fica.presentation.authentification.login.LoginActivity"
+            android:exported="false" />
     </application>
 
 </manifest>

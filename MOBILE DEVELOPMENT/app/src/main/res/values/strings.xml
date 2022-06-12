@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">StoryApp</string>
+    <string name="app_name">FiCa</string>
+    <string name="nav_news">News</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_profile">Profile</string>
     <string name="name">Name</string>
     <string name="hint_name">Enter Name</string>
     <string name="email">Email</string>
@@ -26,5 +29,24 @@
     <string name="add_story">Add Story</string>
     <string name="upload_success">Upload Success</string>
     <string name="fi_ca">Fi-Ca</string>
-    <string name="failed_password" />
+    <string name="failed_password">Minimal password 8 karakter</string>
+    <string name="btnCamera">Camera</string>
+    <string name="btnGallery">Gallery</string>
+    <string name="btnPredict">Predict</string>
+    <string name="tvProbability">Probability</string>
+    <string name="tvName">Result type</string>
+    <string name="tvMax">Max Price</string>
+    <string name="tvMin">Min Price</string>
+    <string name="tvDescription">Description</string>
+    <string name="tvNews1">28 Jenis Ikan Koi Berdasarkan Corak Warna, Perhatikan Perbedaanya</string>
+    <string name="tvDate1">11 Juni 2022</string>
+    <string name="tvNews2">Pemkot Kediri Tebar 10 Ribu Benih Ikan Koi ke Peternak</string>
+    <string name="tvDate2">3 Juni 2022</string>
+    <string name="tvNews3">Lewat Pelatihan Budi Daya Ikan Koi, Disabilitas Netra Didorong Mencapai...</string>
+    <string name="tvDate3">20 Mei 2022</string>
+    <string name="tvNews4">Unik Banget, Kafe Ini Tawarkan Sensasi Ngopi Bersama Puluhan Ikan Koi</string>
+    <string name="tvDate4">1 Mei 2022</string>
+    <string name="strDescription">Aplikasi Fi-Ca merupakan aplikasi yang dapat mendeteksi jenis ikan dan mengetahui harga pasaran ikan serta bagaimana proses budidaya ikan untuk dikembangbiakan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
